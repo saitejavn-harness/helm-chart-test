@@ -3,6 +3,16 @@ entries:
   chart1:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2023-09-29T20:21:15.732659716Z"
+    description: A Helm chart for Kubernetes
+    digest: 7bda2cb26bf183a812f553728b717d2a61f0517459b284ea62528b2ae863ff7f
+    name: chart1
+    type: application
+    urls:
+    - https://github.com/saitejavn-harness/helm-chart-test/releases/download/chart1-0.1.4/chart1-0.1.4.tgz
+    version: 0.1.4
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2023-09-29T20:14:40.717641762Z"
     description: A Helm chart for Kubernetes
     digest: c5be1abb9773928f204fa7e98ed7110d56dc641548b71be7e65c181b468a3e8c
@@ -62,4 +72,4 @@ entries:
     urls:
     - https://github.com/saitejavn-harness/helm-chart-test/releases/download/chart2-0.1.0/chart2-0.1.0.tgz
     version: 0.1.0
-generated: "2023-09-29T20:14:40.907620186Z"
+generated: "2023-09-29T20:21:15.907030194Z"
